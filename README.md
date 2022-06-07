@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 4. Dowload and unzip contents from Github repo
 
-Dowload and unzip contents from https://github.com/Mridul-Sharma01/Water_Potablity/archive/refs/heads/main.zip
+Dowload and unzip contents from https://github.com/Prathm4/Project/archive/refs/heads/main.zip
 
 5. Launch the app
 ```
